@@ -7,5 +7,5 @@ function draw(){
   ellipse(100,130,180,100);
   line(50,40,20,20);
   rect(60,60,90,90);
-  triangle(200,250,200)
+  triangle(200,250,200);
 }
