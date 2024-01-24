@@ -19,5 +19,4 @@ function draw(){
   noFill();
   strokeWeight(13);
   arc(200,180,150,150,0, HALF_PI);
-  
 }
